@@ -43,4 +43,3 @@ def play(board)
     slots_left -= 1
   end
 end
-end
